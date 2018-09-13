@@ -13,7 +13,7 @@ import re
 import errno
 
 CONFIG_DIR = '/path/to/acl-reports/config/'
-CREDENTIALS = '.CREDENTIALS.yml'
+CREDENTIALS = '/path/to/acl-reports/config/.CREDENTIALS.yml'
 BIN_DIR = '/path/to/acl-reports/bin/'
 INVENTORY = '/path/to/acl-reports/config/inventory.py'
 
